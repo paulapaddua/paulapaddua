@@ -1,4 +1,4 @@
-### Olá, me chamo Paula Pádua, sou apaixonada por tecnologia, atualmente estou me graduando Bacharel em Sistemas de informação, pela Universidade Federal de Alagoas.  👋
+### Olá, me chamo Paula Pádua, sou apaixonada por tecnologia e atualmente estou me graduando Bacharel em Sistemas de informação, pela Universidade Federal de Alagoas. Na minha trajetória acadêmica, fui monitora em programação 1 utilizando a linguagem C, fiz um projeto de pesquisa intitulado "O Uso da Tecnologia Blockchain para Habilitar a Transparência e a Rastreabilidade das transações de dados em Plataformas de Streaming" e estou dando andamento em um novo projeto de pesquisa, com o titulo "Desenvolvendo Serviços Computacionais utilizando Tecnologia Blockchain para habilitar a Transferência de Criptoativos entre os Stakeholders do Ecossistema de Plataformas de Streaming".   👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="padua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
